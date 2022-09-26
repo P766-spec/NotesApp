@@ -29,7 +29,7 @@
     padding: 20px;
     box-sizing: border-box;
     color: #161D6F;
-    overflow-y: auto;
+    /* overflow-y:auto; */
 }
 
 .sidebar-header {
@@ -65,6 +65,7 @@
 #sidebar.active {
     left: 0;
     transition: 0.3s;
+    
 }
 
 
