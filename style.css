@@ -29,6 +29,7 @@
     padding: 20px;
     box-sizing: border-box;
     color: #161D6F;
+    overflow-y: auto;
 }
 
 .sidebar-header {
